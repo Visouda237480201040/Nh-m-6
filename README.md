@@ -63,7 +63,7 @@ Visouda kiểm tra
        ▼
      main
 ```
-## 3. THIẾT KẾ GIAO DIỆN
+## 3. THIẾT KẾ GIAO DIỆN(visouda)
 
 Hệ thống quản lý trường học được thiết kế với giao diện trực quan, hiện đại và dễ sử dụng, hỗ trợ người dùng thực hiện các chức năng quản lý một cách nhanh chóng và hiệu quả.
 
