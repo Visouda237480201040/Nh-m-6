@@ -7,7 +7,7 @@ Nhóm thống nhất xây dựng dự án **“Hệ thống thông tin quản l�
 | ------- | ------------- | ---------------------------------- | --------------------------- |
 | 1       | **Visouda**   | Nhóm trưởng / Quản lý dự án        | `feature/setup`             |
 | 2       | **Kammani**   | Quản lý học sinh / Backend         | `feature/students`          |
-| 3       | **Phai**      | Quản lý giáo viên, lớp và môn học  | `feature/teachers-classes`  |
+| 3       | **Phatsouna**      | Quản lý giáo viên, lớp và môn học  | `feature/teachers-classes`  |
 | 4       | **Phosi**     | Quản lý điểm và điểm danh          | `feature/scores-attendance` |
 | 5       | **Thor**      | Thời khóa biểu, học phí / Kiểm thử | `feature/schedule-fees`     |
 
