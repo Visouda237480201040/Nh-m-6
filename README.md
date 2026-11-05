@@ -101,6 +101,7 @@ Chức năng quản lý học sinh cho phép người dùng thực hiện các t
 * Xóa học sinh.
 * Tìm kiếm học sinh.
 * Lọc học sinh theo lớp hoặc khối.
+* xem thông báo
 
 Thông tin học sinh có thể bao gồm:
 
@@ -122,7 +123,8 @@ Giao diện quản lý giáo viên hỗ trợ:
 * Xóa giáo viên.
 * Tìm kiếm giáo viên.
 * Phân công giáo viên giảng dạy.
-
+* Các thông báo cho các (học sinh và phụ huynh).
+  
 Thông tin giáo viên bao gồm:
 
 * Mã giáo viên.
@@ -204,7 +206,7 @@ Một số nội dung thống kê:
 * Thống kê số lượng giáo viên.
 * Thống kê kết quả học tập.
 * Thống kê học sinh theo mức xếp loại.
-* Báo cáo kết quả học tập theo học kỳ.
+* ---Báo cáo kết quả học tập theo học kỳ.---
 
 ### 3.10. Nguyên tắc thiết kế giao diện
 
